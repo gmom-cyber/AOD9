@@ -1,0 +1,6 @@
+﻿  AOD9.cpp
+C:\Users\d-vi9\source\repos\AOD9\AOD9\AOD9.cpp(216,9): warning C4101: ch2: неиспользованная локальная переменная
+C:\Users\d-vi9\source\repos\AOD9\AOD9\AOD9.cpp(211,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\d-vi9\source\repos\AOD9\AOD9\AOD9.cpp(212,9): warning C4101: s: неиспользованная локальная переменная
+C:\Users\d-vi9\source\repos\AOD9\AOD9\AOD9.cpp(215,9): warning C4101: ch: неиспользованная локальная переменная
+  AOD9.vcxproj -> C:\Users\d-vi9\source\repos\AOD9\Debug\AOD9.exe
